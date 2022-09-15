@@ -10,7 +10,7 @@
 玉山競賽連結：[https://tbrain.trendmicro.com.tw/Competitions/Details/18?utm_source=prof_list&utm_medium=email&utm_campaign=EAOC2021](https://tbrain.trendmicro.com.tw/Competitions/Details/18?utm_source=prof_list&utm_medium=email&utm_campaign=EAOC2021)
 
 ```info
-目標 : 預測未來一個月，每一位顧客在16種信用卡消費類別中，前三高的消費類別。
+目標 : 預測未來一個月，每一位顧客在16種信用卡消費類別中，金額前三高的消費類別。
 ```
 
 ## EDA
